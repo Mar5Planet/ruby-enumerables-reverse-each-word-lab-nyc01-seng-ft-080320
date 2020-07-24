@@ -4,5 +4,4 @@ def reverse_each_word(phrase)
     word.reverse
   end
    p new_array.join(" ")
-   
 end
