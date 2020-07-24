@@ -6,4 +6,3 @@ def reverse_each_word(phrase)
    p new_array.join(" ")
 end
 
-sentence.split.map {|word| word.reverse}.join(" ")
